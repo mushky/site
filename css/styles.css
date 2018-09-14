@@ -1,0 +1,25 @@
+.main-body {
+	width: auto;
+	height: auto;
+	margin-bottom: 150px;
+}
+
+.information {
+	padding-bottom: 10px;
+}
+
+.header-style {
+	background-color: #B66B54 !important;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+	list-style: none;
+}
+
+body {
+	background-color: #F9EDE6;
+}
